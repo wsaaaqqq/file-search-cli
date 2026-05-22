@@ -1,4 +1,4 @@
-# everything-find
+# file-search-cli
 
 A skill for OpenCode that enables rapid file search on Windows using Everything's `es.exe` CLI.
 
@@ -16,13 +16,13 @@ Enables AI agents to quickly locate files by name, path, extension, size, or mod
 ## Installation
 
 ```bash
-npx skills add wsaaaqqq/everything-find
+npx skills add wsaaaqqq/file-search-cli
 ```
 
 Or install directly from GitHub:
 
 ```bash
-npx skills add https://github.com/wsaaaqqq/everything-find
+npx skills add https://github.com/wsaaaqqq/file-search-cli
 ```
 
 ## Usage Examples

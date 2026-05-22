@@ -1,9 +1,9 @@
 ---
-name: everything-find
+name: file-search-cli
 description: Use when needing to quickly locate files on Windows by name, path, extension, size or date modified
 ---
 
-# Everything Find
+# File Search CLI
 
 ## Overview
 
